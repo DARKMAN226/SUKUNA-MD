@@ -14,7 +14,7 @@
 
 **SESSION ID💫**
 
-[![Get Session](https://img.shields.io/badge/Get%20Session-TerraXMD-blueviolet?style=for-the-badge&logo=linktree)](https:/)
+[![Get Session](https://img.shields.io/badge/Get%20Session-SUKUNA-MD-blueviolet?style=for-the-badge&logo=linktree)](https:/)
 ---
 
 🧠 Features
