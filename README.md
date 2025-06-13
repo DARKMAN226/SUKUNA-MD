@@ -92,7 +92,7 @@ jobs:
 
 👑 Credits
 
-> Made with ❤️ by *DARK DEV*  
+> Made with ❤️ by *DARK-DEv*  
 > Contact: `22603582906`
 > collaboration avec DEV 𝙕𝙀𝙋𝙃𝙔𝙍𓂀♱ et INCONNUS TECH 
 ---
