@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https:"><img src="https://img.shields.io/github/stars/Crazynotdev/TERRA-XMD?style=flat-square&color=yellow"></a>
+  <a href="https:"><img src="https://img.shields.io/github/stars/Crazynotdev/SUKUNA-MD?style=flat-square&color=yellow"></a>
   <a href="https://github.com/DARKMAN226/SUKUNA-MD/fork"><img src="https://img.shields.io/github/forks/DARKMAN226/SUKUNA-MD?style=flat-square&color=lightblue"></a>
   <a href="https://whatsapp.com/channel/0029VbAfF6f1dAw7hJidqS0i"><img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=flat-square&logo=whatsapp"></a>
   <a href="https://github.com/DARKMAN226"><img src="https://img.shields.io/badge/DARKMAN226-blueviolet?style=flat-square"></a>
