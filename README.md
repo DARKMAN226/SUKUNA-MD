@@ -1,7 +1,7 @@
 <h1 align="center">🚀SUKUNA-MD</h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/ygms0k.jpg" width="300"/><br>
+  <img src="https://files.catbox.moe/2p8kp8.jpg" width="300"/><br>
   <b>Fast, Powerful, and Stylish WhatsApp Bot built for fun and performance.</b>
 </p>
 
