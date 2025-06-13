@@ -92,7 +92,7 @@ let up = `*╭──────────────●●*
 *ʙᴏᴛ ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ✅*\n\n> POWERED BY DARK DEV *
 
 *╰──────────────●●*`;
-conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/kdhfsi.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/2p8kp8.jpg` }, caption: up })
 
 }
 })
