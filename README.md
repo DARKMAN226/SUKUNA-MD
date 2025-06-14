@@ -19,7 +19,10 @@
 
 **SESSION ID💫**
 
-[![Get Session](https://img.shields.io/badge/Get%20Session-SUKUNA-MDblueviolet?style=for-the-badge&logo=linktree)](https://sukuna-paire.onrender.com/)
+[![Get Session](https://img.shields.io/badge/Get%20Session-SUKUNA-MDblueviolet?style=for-the-badge&logo=linktree)](https://sukunamdpair-production.up.railway.app/)
+<br/>
+**Serveur 2
+ [![Get Session](https://img.shields.io/badge/Get%20Session-SUKUNA-MDblueviolet?style=for-the-badge&logo=linktree)](https://sukuna-md-pair.onrender.com)
 ---
 
 🧠 Features
