@@ -2,6 +2,11 @@
 
 <p align="center">
   <img src="https://files.catbox.moe/2p8kp8.jpg" width="300"/><br>
+
+<video src="https://files.catbox.moe/ccsddd" controls width="600">
+  Votre navigateur ne supporte pas la balise vidéo.
+</video>
+
   <b>Fast, Powerful, and Stylish WhatsApp Bot built for fun and performance.</b>
 </p>
 
