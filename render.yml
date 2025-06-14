@@ -1,0 +1,22 @@
+
+services:
+  - type: web
+    name: SUKUNA-MD
+    env: node
+    plan: free
+    repo: https://github.com/DARKMAN226/SUKUNA-MD
+    branch: main
+    buildCommand: npm install
+    startCommand: node index.js
+    autoDeploy: true
+    envVars:
+      - key: NODE_VERSION
+        value: 18
+      - key: MODE
+        value: public
+      - key: PREFIX
+        value: .
+      - key: BOT_NAME
+        value: SUKUNA-MD
+      - key: OWNER_NUMBER
+        value: 24105730123
