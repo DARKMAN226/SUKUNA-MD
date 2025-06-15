@@ -19,12 +19,12 @@
 
 **SESSION ID💫**
 
-[![Get Session](https://img.shields.io/badge/Get%20Session-SUKUNA-MDblueviolet?style=for-the-badge&logo=linktree)](https://sukunamdpair-production.up.railway.app/)
+[![Get Session](https://img.shields.io/badge/Get%20Session-SUKUNA-MDblueviolet?style=for-the-badge&logo=linktree)]([https://sukunamdpair-production.up.railway.app/](https://sukunamdpair-production.up.railway.app/))
 <br/>
 <br/>
 
 **SERVEUR 2** 
- [![Get Session](https://img.shields.io/badge/Get%20Session-SUKUNA-MDblueviolet?style=for-the-badge&logo=linktree)](https://sukuna-md-pair.onrender.com)
+ [![Get Session](https://img.shields.io/badge/Get%20Session-SUKUNA-MDblueviolet?style=for-the-badge&logo=linktree)](https://sukunamdpair-production.up.railway.app/)
 ---
 
 🧠 Features
